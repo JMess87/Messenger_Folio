@@ -87,7 +87,7 @@ export default function Portfolio() {
                             <img src={JATE}  width={300} height={300} class="rounded mx-auto d-block"/>
                             </p>
                             <a href="https://github.com/JMess87/PWA_Challenge.git" className="btn btn-primary">
-                                Go somewhere
+                                GitHub Repo
                             </a>
                         </div>
                     </div>
@@ -99,7 +99,7 @@ export default function Portfolio() {
                             <p className="card-text">
                             <img src={ReadMe}  width={300} height={300} class="rounded mx-auto d-block"/>
                             </p>
-                            <a href="#" className="btn btn-primary">
+                            <a href="https://github.com/JMess87/CreateReadMe.git" className="btn btn-primary">
                                 GitHub Repo
                             </a>
                         </div>

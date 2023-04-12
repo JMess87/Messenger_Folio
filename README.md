@@ -1,99 +1,40 @@
 # 20 React: React Portfolio
 
+Create a version 2 of your previously created Portfolio. This time using React.
+
 ## Deployment Links
 
 GIT HUB REPO
 
 https://github.com/JMess87/Messenger_Folio.git
 
-VIDEO LINK
 
 ## Screen Shots
 
 
-You’ll deploy this application to GitHub Pages. Follow the instructions in the Git Guide or consult the [Create React App Docs on GitHub Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create a build that you can deploy.
+
 
 ## Animation
 
+VIDEO LINK
+
+https://drive.google.com/file/d/1jWLFlp4YeTOElSV8r3IhZXQCpLnptMrx/view
+
 
 ## Instructions
+1. If running this application from the command line you will need to navigate to the appropriate folder. 
+2. If react is not installed you will have to create the app locally. By running npx create-react-app.
+3. Then run npm start. This will start the application on local host 3000.
+
+The app will be deploywed to github pages.
 
 
 ## Resources
 
-## Acceptance Criteria
+https://stackoverflow.com/questions/67564703/how-to-add-hyperlink-in-jsx
 
 
-GIVEN a single-page application portfolio for a web developer
-WHEN I load the portfolio
-THEN I am presented with a page containing a header, a section for content, and a footer
-WHEN I view the header
-THEN I am presented with the developer's name and navigation with titles corresponding to different sections of the portfolio
-WHEN I view the navigation titles
-THEN I am presented with the titles About Me, Portfolio, Contact, and Resume, and the title corresponding to the current section is highlighted
-WHEN I click on a navigation title
-THEN I am presented with the corresponding section below the navigation without the page reloading and that title is highlighted
-WHEN I load the portfolio the first time
-THEN the About Me title and section are selected by default
-WHEN I am presented with the About Me section
-THEN I see a recent photo or avatar of the developer and a short bio about them
-WHEN I am presented with the Portfolio section
-THEN I see titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repositories
-WHEN I am presented with the Contact section
-THEN I see a contact form with fields for a name, an email address, and a message
-WHEN I move my cursor out of one of the form fields without entering text
-THEN I receive a notification that this field is required
-WHEN I enter text into the email address field
-THEN I receive a notification if I have entered an invalid email address
-WHEN I am presented with the Resume section
-THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
-WHEN I view the footer
-THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
-```
-
-## Mock-Up
-
-The following animation shows the web application's appearance and functionality:
-
-![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./Assets/20-react-homework-demo-01.gif)
-
-## Getting Started
-
-You’ll use `create-react-app` to build your portfolio, which will include the following:
-
-* A single `Header` component that appears on multiple pages
-
-* A single `Navigation` component within the header that will be used to conditionally render the different sections of your portfolio
-
-* A single `Project` component that will be used multiple times in the Portfolio section
-
-* A single `Footer` component that appears on multiple pages
-
-
-
-### Projects
-
-For each project that is featured in your portfolio, include the following:
-
-* An image of the deployed application (either a short animated GIF or screenshot)
-
-* The title of the project
-
-* A link to the deployed application
-
-* A link to the corresponding GitHub repository
-
-### Design
-
-As with the previous portfolio Challenge, remember that "good" design is subjective; however, your site should look polished. Here are a few guidelines on what that means:
-
-* Use mobile-first design.
-
-* Choose a color palette that distinguishes your site from the default Bootstrap theme and unstyled HTML sites. Refer to resources like [Coolors](https://coolors.co/) or another color scheme generator to help you create something that will stand out.
-
-* Ensure that the font size is large enough to read and that the colors don't cause eye strain.
-
-* Consider using animations and React component libraries. Note that this will not affect your grade, but it might impact how potential employers gauge your knowledge.
+https://getbootstrap.com/
 
 
 
@@ -101,15 +42,16 @@ As with the previous portfolio Challenge, remember that "good" design is subject
 
 
 
-    * Application has a single `Header` component that appears on multiple pages, with a `Navigation` component within it that’s used to conditionally render About Me, Portfolio, Contact, and Resume sections.
 
-    * Application has a single `Project` component that’s used multiple times in the Portfolio section.
 
-    * Application has a single `Footer` component that appears on multiple pages.
 
-    * Application must be deployed to GitHub Pages.
 
-* Application uses a color scheme other than the default Bootstrap color palette.
+
+
+
+
+
+
 
 
 
