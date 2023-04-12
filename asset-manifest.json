@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JMess87/Messenger_Folio/static/css/main.d96b04e8.css",
+    "main.js": "/JMess87/Messenger_Folio/static/js/main.f521ac44.js",
+    "static/media/image1.jpg": "/JMess87/Messenger_Folio/static/media/image1.058e09585daa1ca06594.jpg",
+    "static/media/ECOMM.gif": "/JMess87/Messenger_Folio/static/media/ECOMM.437ce5630d2ff14a82f1.gif",
+    "static/media/ET.jpg": "/JMess87/Messenger_Folio/static/media/ET.c25287679d9ca3f9251c.jpg",
+    "static/media/AA.jpg": "/JMess87/Messenger_Folio/static/media/AA.6591541d808c96cd171b.jpg",
+    "static/media/JMessPDF.pdf": "/JMess87/Messenger_Folio/static/media/JMessPDF.a2163704e53320b0c111.pdf",
+    "static/media/JMessRes.docx": "/JMess87/Messenger_Folio/static/media/JMessRes.725dd26069443705ff4d.docx",
+    "static/media/GT.jpg": "/JMess87/Messenger_Folio/static/media/GT.fd2eb2dc518f89e1fc9c.jpg",
+    "static/media/ReadMe.png": "/JMess87/Messenger_Folio/static/media/ReadMe.db1f702f1685fcb8ba05.png",
+    "static/media/JATE.png": "/JMess87/Messenger_Folio/static/media/JATE.659a83da101be9a6b8c0.png",
+    "index.html": "/JMess87/Messenger_Folio/index.html",
+    "main.d96b04e8.css.map": "/JMess87/Messenger_Folio/static/css/main.d96b04e8.css.map",
+    "main.f521ac44.js.map": "/JMess87/Messenger_Folio/static/js/main.f521ac44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d96b04e8.css",
+    "static/js/main.f521ac44.js"
+  ]
+}
