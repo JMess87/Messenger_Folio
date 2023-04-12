@@ -5,7 +5,8 @@ import About from './pages/About';
 import Resume from './pages/Resume';
 import Certs from './pages/Certs';
 import Contact from './pages/Contact';
-
+import Portfolio from './pages/Portfolio';
+import Footer from './Footer/Footer'
 
 
 export default function PortfolioContainer() {
@@ -25,8 +26,10 @@ export default function PortfolioContainer() {
     if (currentPage === 'Certs') {
       return <Certs />;
     }
+    if(currentPage === 'Portfolio') {
+        return <Portfolio />;
+    }
     if (currentPage === 'Contact'){}
-    
     return <Contact />;
   };
 
@@ -38,6 +41,7 @@ export default function PortfolioContainer() {
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* Here we are calling the renderPage method which will return a component  */}
       {renderPage()}
+      <Footer/>
     </div>
   );
 }
