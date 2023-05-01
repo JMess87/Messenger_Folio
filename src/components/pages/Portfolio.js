@@ -3,7 +3,7 @@ import GT from '../../images/GT.jpg';
 import AA from '../../images/AA.jpg';
 import ET from '../../images/ET.jpg';
 import JATE from '../../images/JATE.png';
-import ECOMM from '../../images/ECOMM.gif';
+import PP from '../../images/PP.png';
 import ReadMe from '../../images/ReadMe.png';
 
 export default function Portfolio() {
@@ -21,11 +21,11 @@ export default function Portfolio() {
                 <div className="col-sm-6 mb-3 mb-sm-0">
                     <div className="card">
                         <div className="card-body">
-                            <h5 className="card-title">E-Commerce Back End</h5>
+                            <h5 className="card-title">Produce Pal</h5>
                             <p className="card-text">
-                            <img src={ECOMM}  width={300} height={300} class="rounded mx-auto d-block"/>
+                            <img src={PP}  width={300} height={300} class="rounded mx-auto d-block"/>
                             </p>
-                            <a href="https://github.com/JMess87/ECommerce.git" className="btn btn-primary">
+                            <a href="https://github.com/JMess87/Produce-Pal.git" className="btn btn-primary">
                                 GitHub Repo
                             </a>
                         </div>
